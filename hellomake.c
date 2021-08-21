@@ -1,8 +1,8 @@
 #include <hellomake.h>
 
-int main() {
+void main() {
   // call a function in another file
   myPrintHelloMake();
 
   return(0);
-}
+};
